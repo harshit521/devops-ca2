@@ -16,7 +16,9 @@ Three-tier FestPass app: Nginx frontend, Flask/Python API, PostgreSQL database. 
 ## AI tools
 
 - ChatGPT: used to explain the assessment and help prepare a starter project and command checklist. All commands, scan results, image digests, signatures and screenshots must be generated and checked on my own machine.
-
+## Triviy reports
+- Before scan : ../reports/trivy-before.txt
+- After scan : ../reports/trivy-after.txt
 ## Published image
 
 - `harshxhit/fest-backend:1.0.0` digest: **TODO: paste the digest printed by your successful push**
