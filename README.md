@@ -21,10 +21,10 @@ Three-tier FestPass app: Nginx frontend, Flask/Python API, PostgreSQL database. 
 - After scan : ../reports/trivy-after.txt
 ## Published image
 
-- `harshxhit/fest-backend:1.0.0` digest: **TODO: paste the digest printed by your successful push**
-- `harshxhit/fest-backend:1.0` pushed: **TODO: confirm**
-- `1.0.0` signature verified: **TODO: record your actual verification**
-- `1.0.1` unsigned image rejected by `cosign verify`: **TODO: record your actual result**
+- `harshxhit/fest-backend:1.0.0` digest: 
+- `harshxhit/fest-backend:1.0` pushed: 
+- `1.0.0` signature verified: 
+- `1.0.1` unsigned image rejected by `cosign verify`: 
 
 ## Evidence screenshots
 
